@@ -1,7 +1,7 @@
 cmake_minimum_required (VERSION 3.10)
-project(ggwave VERSION 0.4.2)
+project(ggwave VERSION 0.4.3)
 
-set(GGWAVE_VERSION_PYTHON 0.4.2)
+set(GGWAVE_VERSION_PYTHON 0.4.3)
 
 set(CMAKE_EXPORT_COMPILE_COMMANDS "on")
 set(CMAKE_RUNTIME_OUTPUT_DIRECTORY ${CMAKE_BINARY_DIR}/bin)
